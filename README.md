@@ -11,3 +11,6 @@
 
 ## Technical Queries
 <img width="394" alt="4" src="https://user-images.githubusercontent.com/84165564/222328383-5fae177c-a48e-4dcc-adb3-4d3a20f08497.png">
+
+### Package Source
+ [OpenAISwift Client Library](https://github.com/adamrushy/OpenAISwift).
